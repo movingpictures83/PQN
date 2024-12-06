@@ -1,0 +1,2 @@
+Prefix plugins/PQN/example/
+Plugin PQN inputfile parameters.pqn.txt outputfile PQN.pdf
